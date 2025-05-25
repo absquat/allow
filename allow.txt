@@ -1,2 +1,2 @@
-*.literotica.com
+literotica.com
 oglaf.com
